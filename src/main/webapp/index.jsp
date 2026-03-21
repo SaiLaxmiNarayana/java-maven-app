@@ -5,7 +5,7 @@
     <title>StepStyle - Shoe Store</title>
     <style>
         body {
-            background-color: #fff8f0;
+            background-color: #FFC0CB;
             font-family: Arial, sans-serif;
             text-align: center;
             padding: 50px;
